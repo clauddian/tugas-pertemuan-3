@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Featured Destinations</title>
+    </head>
+
+    <body bgcolor= "#E0FFFF">
+        <h2><b><font face="Arial">Feautured Destinations</font></b></h2>
+        <p align="left">Compass works hard to bring you the best possible trips for your rugged<br>lifestyle. Here you'll find our latest travel packages suited for the adventurous<br>spirit</p>
+        <h3><b><font face="Arial" color="#808000">California Surfing Safari</font></b></h3><hr color="black">
+        <p>Be ready to go on a moment's notice. We will call you when the surf is<br>pumping and fly you out for five mornings of hurricane inspired<br>summertime south swell</p>
+
+        <h3><b><font face="Arial" color="#808000">Argentina Mountain Biking</font></b></h3><hr color="black">
+        <p>Be ready to go on a moment's notice. We will call you when the surf is<br>pumping and fly you out for five mornings of hurricane inspired<br>summertime south swell</p>
+
+        <h3><b><font face="Arial" color="#808000">Yosemite Rock Climbing</font></b></h3><hr color="black">
+        <p>Be ready to go on a moment's notice. We will call you when the surf is<br>pumping and fly you out for five mornings of hurricane inspired<br>summertime south swell</p>
+    
+    </body>
+</html>
